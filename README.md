@@ -51,7 +51,7 @@ Coming Soon!
 
 # 📜 Certifications
 
-- ✅ SOCOA 1 – Security Operations Certified Analyst Level 1: https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/186466293
+- ✅  [SOCOA 1 – Security Operations Certified Analyst I](https://images.credential.net/embed/qwl55rjm_1782510542471.png)
 
 Working Toward:
 
