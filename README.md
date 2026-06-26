@@ -63,7 +63,7 @@ Working Toward:
 
 # 📫 Connect With Me
 
-- Linked https://www.linkedin.com/in/marc-curry-23941b2b5/n 
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/marc-curry-23941b2b5/)
 - GitHub Projects Updated Weekly
 
 ---
