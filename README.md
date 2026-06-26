@@ -49,7 +49,7 @@ Coming Soon!
 
 ---
 
-# 📜 Certifications
+# 📜 Connect With Me 
 
 - <p align="center">
 
@@ -74,11 +74,6 @@ Working Toward:
 - Microsoft AZ-900
 
 ---
-
-# 📫 Connect With Me
-
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/marc-curry-23941b2b5/)
-- GitHub Projects Updated Weekly
 
 ---
 
